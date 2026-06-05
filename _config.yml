@@ -1,0 +1,18 @@
+title: Git & Dev Tools
+email: jess@ceniack.com
+description: >-
+  Practical guides on Git workflows, command-line tools, and developer productivity.
+baseurl: "/git-website-jekyll"
+url: "https://hyunjee-hale.github.io"
+github_username: hyunjee-hale
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - posts.markdown
+
+exclude:
+  - SITE-GUIDE.md
